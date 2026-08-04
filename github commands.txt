@@ -1,24 +1,3 @@
-gicd "F:\Learning\Striver DSA"
-t status
-git add *.c++
-git commit -m "DSA practice update"
-git push origin main
-
-cd "F:\Learning\Python"
-git status
-git add "Chapter 2"
-git commit -m "Python practice update"
-git push origin main
-
-dynamic array (vectors) yet to be studied 
-class objects in c++ need to be studied 
-
-
-
-.venv\Scripts\activate
-git fetch origin
-git rebase origin/main
-
 cd "F:\Learning\AI ML Learn from Scratch"
 git status
 git add .
