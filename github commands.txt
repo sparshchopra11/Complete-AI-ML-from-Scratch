@@ -1,7 +1,7 @@
 cd "F:\Learning\AI ML Learn from Scratch"
 git status
 git add .
-git commit -m "Update"
+git commit -m "New Update"
 git push origin main
 
 
